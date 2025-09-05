@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Hemant 👋  
 
-<!--
-**hemantk77/hemantk77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering student at UE Berlin, passionate about building useful applications and solving problems with code.  
+💡 Interested in **Web Development, Cloud & DevOps, and Machine Learning**.  
+🌱 Currently learning **Java, Python, Cloud & DevOps**, and improving my **German**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools  
+- **Languages:** C, Java, Python, SQL  
+- **Web:** HTML, CSS, JavaScript  
+- **Databases:** MySQL  
+- **Other:** Git, GitHub, Agile, , Flutter  
+
+---
+
+## 📫 Contact Me  
+- 📧 Email: hemant11uk@gmail.com  
+- 💼 [LinkedIn](www.linkedin.com/in/hemant-kumar7) 
+
+---
+
+⭐️ Feel free to explore my repos and connect with me!
