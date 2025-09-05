@@ -2,7 +2,7 @@
 
 🎓 Software Engineering student at UE Berlin, passionate about building useful applications and solving problems with code.  
 💡 Interested in **Web Development, Game Development, and Machine Learning**.  
-🌱 Currently learning **JavaScript and A2 German**. I am also improving my **Python**.
+🌱 Currently learning **JavaScript and A2 German**. I am also improving my **Python** for use in AI and ML.
 
 ---
 
