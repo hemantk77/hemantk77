@@ -1,8 +1,8 @@
 # Hi, I'm Hemant 👋  
 
-🎓 Software Engineering student at UE Berlin, passionate about building useful applications and solving problems with code.  
-💡 Interested in **Web Development, Game Development, and Machine Learning**.  
-🌱 Currently learning **React.js and A2 German**. I am also working on my **Python** for use in AI and ML along with the **CS50 Web Programming Course by Harvard**.
+🎓 Software Engineering student at UE Potsdam, passionate about building useful applications and solving problems with code.  
+💡 Interested in **the Aerospace Industry**, therefore looking to join one soon and develop integrated software for Aircrafts.  
+🌱 Currently learning **JavaScript and A2 German**. I am also working with **BIZOWL** as a Full-Stack Developer along with building a **side project** with my friends.
 
 ---
 
