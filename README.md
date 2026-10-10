@@ -14,7 +14,7 @@
 
 ## 📫 Contact Me  
 - 📧 Email: hemant11uk@gmail.com  
-- 💼 [LinkedIn](www.linkedin.com/in/hemant-kumar7) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/hemantk-dev/) 
 
 ---
 
