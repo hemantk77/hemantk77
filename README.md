@@ -2,7 +2,7 @@
 
 🎓 Software Engineering student at UE Potsdam, passionate about building useful applications and solving problems with code.  
 💡 Interested in **the Aerospace Industry**, therefore looking to join one soon and develop integrated software for Aircrafts.  
-🌱 Currently learning **JavaScript and A2 German**. I am also working with **BIZOWL** as a Full-Stack Developer along with building a **side project** with my friends.
+🌱 Currently learning **A2 German** and revising **C/C++ to work on a new project based on NASA's cFS**. Mainly, I am also working with **BIZOWL** as a Full-Stack Developer.
 
 ---
 
